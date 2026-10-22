@@ -1,0 +1,11 @@
+{
+  "name": "Code Studio",
+  "short_name": "Code Studio",
+  "description": "Seu espaço de programação com IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "orientation": "any",
+  "icons": []
+}
